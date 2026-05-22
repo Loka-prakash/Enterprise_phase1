@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# MySQL
+*.sql
+ 
+
+# Node Modules
+node_modules/
+
+# React Build
+dist/
+build/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
